@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Simone Schnieder. 
+- ⚡ My pronouns are she/her.
+- 🌱 I'm currently studying Data and Information Science in Cologne, Germany.
+- 🔭 I’m currently working on the [CS50 Course](https://cs50.harvard.edu/python/) about Programming with Python
+
+
+
 <!--
 **Simi2499/Simi2499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +18,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
