@@ -3,7 +3,10 @@
 My name is Simone Schnieder. 
 - ⚡ My pronouns are she/her.
 - 🌱 I'm currently studying Data and Information Science in Cologne, Germany.
+    - For my course data integration I have this [lab repository](https://github.com/Simi2499/data-integration-labs)
 - 🔭 I’m currently working on the [CS50 Course](https://cs50.harvard.edu/python/) about Programming with Python
+
+
 
 
 
